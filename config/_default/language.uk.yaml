@@ -20,10 +20,14 @@ params:
       </div>
 
   version_menu: Версії
+
   version:
     deprecation_warning: >-
       Ця версія etcd більше не підтримується. Останню версію див. у [остання
       стабільна версія](/docs/latest/).
+  versions:
+    - version: v3.5
+      url: /uk/docs/v3.5/
 
   ui:
     feedback:
@@ -35,10 +39,6 @@ params:
         Дуже шкода це чути. Будь ласка, <a
         href="https://github.com/etcd-io/website/issues/new">
         повідомте нам, як ми можемо зробити краще</a>.
-
-  versions:
-    - version: v3.5
-      url: /uk/docs/v3.5/
 
   # Footer Links
   links:
